@@ -1,0 +1,282 @@
+DO NOT MANUALY EDIT THIS FILE
+1
+2
+0
+mapbank\testo.fpm
+skybank\clear\clear.x
+skybank\clear\clear_b.dds
+skybank\clear\clear_clouds.dds
+skybank\clear\clear_d.dds
+skybank\clear\clear_f.dds
+skybank\clear\clear_l.dds
+skybank\clear\clear_r.dds
+skybank\clear\clear_u.dds
+skybank\clear\skyspec.txt
+skybank\night\back.dds
+skybank\night\down.dds
+skybank\night\front.dds
+skybank\night\left.dds
+skybank\night\night.x
+skybank\night\right.dds
+skybank\night\skyspec.txt
+skybank\night\up.dds
+terrainbank\jungle\default_d.dds
+terrainbank\jungle\default_n.dds
+terrainbank\jungle\detailmap.dds
+terrainbank\jungle\mossy_d.dds
+terrainbank\jungle\mossy_n.dds
+terrainbank\jungle\path_d.dds
+terrainbank\jungle\path_n.dds
+terrainbank\jungle\rocky_d.dds
+terrainbank\jungle\rocky_n.dds
+terrainbank\jungle\sedimentary_d.dds
+terrainbank\jungle\sedimentary_n.dds
+terrainbank\jungle\superpalette.ter
+terrainbank\jungle\texture_d.dds
+terrainbank\jungle\texture_n.dds
+vegbank\wild grass\grass.dds
+vegbank\wild grass\veg.x
+entitybank\_markers\player start.fpe
+entitybank\_markers\arrow.dbo
+entitybank\_markers\player start.dds
+scriptbank\weapon.lua
+entitybank\weapons\bow.fpe
+entitybank\weapons\bow.dbo
+entitybank\weapons\bow_d2.dds
+gamecore\guns\medieval\bow\crosshair.dds
+gamecore\guns\medieval\bow\fire.wav
+gamecore\guns\medieval\bow\gunspec.txt
+gamecore\guns\medieval\bow\gun_d.dds
+gamecore\guns\medieval\bow\gun_d2.dds
+gamecore\guns\medieval\bow\hand_d.jpg
+gamecore\guns\medieval\bow\hud.x
+gamecore\guns\medieval\bow\hud_icon.dds
+gamecore\guns\medieval\bow\idle.wav
+gamecore\guns\medieval\bow\putaway.wav
+gamecore\guns\medieval\bow\retrieve.wav
+gamecore\ammo\bow\arrows.x
+gamecore\ammo\bow\bow_arrows.bmp
+gamecore\ammo\bow\bow_arrows.fpe
+gamecore\ammo\bow\bow_d2.dds
+scriptbank\ammo.lua
+entitybank\weapons\bow_arrows.fpe
+entitybank\weapons\arrows.dbo
+effectbank\reloaded\apbr_basic.fx
+audiobank\misc\ammo.wav
+entitybank\weapons\halberd.fpe
+entitybank\weapons\halberd.dbo
+gamecore\guns\medieval\halberd\crosshair.dds
+gamecore\guns\medieval\halberd\fire.wav
+gamecore\guns\medieval\halberd\gunspec.txt
+gamecore\guns\medieval\halberd\gun_d.dds
+gamecore\guns\medieval\halberd\gun_d2.dds
+gamecore\guns\medieval\halberd\hand_d.jpg
+gamecore\guns\medieval\halberd\hud.x
+gamecore\guns\medieval\halberd\hud_icon.dds
+gamecore\guns\medieval\halberd\idle.wav
+gamecore\guns\medieval\halberd\putaway.wav
+gamecore\guns\medieval\halberd\retrieve.wav
+entitybank\weapons\sniper m700.fpe
+gamecore\guns\modern\sniperm700\sniperm700.dbo
+gamecore\guns\modern\sniperm700\sniperm700_d.dds
+gamecore\guns\modern\sniperm700\sniperm700_n.dds
+gamecore\guns\modern\sniperm700\sniperm700_s.dds
+audiobank\misc\weapon.wav
+gamecore\guns\modern\sniperm700\crosshair.dds
+gamecore\guns\modern\sniperm700\dryfire.wav
+gamecore\guns\modern\sniperm700\fire1.wav
+gamecore\guns\modern\sniperm700\fire2.wav
+gamecore\guns\modern\sniperm700\fire3.wav
+gamecore\guns\modern\sniperm700\fire4.wav
+gamecore\guns\modern\sniperm700\gunspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\guns\modern\sniperm700\gun_color.dds
+gamecore\guns\modern\sniperm700\gun_gloss.dds
+gamecore\guns\modern\sniperm700\gun_metalness.dds
+gamecore\guns\modern\sniperm700\gun_normal.dds
+gamecore\guns\modern\sniperm700\hud.x
+gamecore\guns\modern\sniperm700\putaway.wav
+gamecore\guns\modern\sniperm700\reload.wav
+gamecore\guns\modern\sniperm700\retrieve.wav
+gamecore\guns\modern\sniperm700\scope1.dds
+gamecore\guns\modern\sniperm700\sniperm700.x
+gamecore\guns\modern\sniperm700\vweap.x
+gamecore\guns\modern\sniperm700\zoom.wav
+gamecore\ammo\rifle\rifleammo.dbo
+gamecore\ammo\rifle\rifleammo.x
+gamecore\ammo\rifle\rifleammo_d.dds
+gamecore\ammo\rifle\rifleammo_n.dds
+gamecore\ammo\rifle\rifleammo_s.dds
+entitybank\weapons\rpg.fpe
+gamecore\guns\modern\rpg\rpg.dbo
+gamecore\guns\modern\rpg\rpg_d.dds
+gamecore\guns\modern\rpg\rpg_n.dds
+gamecore\guns\modern\rpg\rpg_s.dds
+gamecore\guns\modern\rpg\crosshair.dds
+gamecore\guns\modern\rpg\dryfire.wav
+gamecore\guns\modern\rpg\fire.wav
+gamecore\guns\modern\rpg\fire1.wav
+gamecore\guns\modern\rpg\fire2.wav
+gamecore\guns\modern\rpg\fire3.wav
+gamecore\guns\modern\rpg\fire4.wav
+gamecore\guns\modern\rpg\gunspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\guns\modern\rpg\gun_color.dds
+gamecore\guns\modern\rpg\gun_gloss.dds
+gamecore\guns\modern\rpg\gun_metalness.dds
+gamecore\guns\modern\rpg\gun_normal.dds
+gamecore\guns\modern\rpg\hud.x
+gamecore\guns\modern\rpg\projectile.x
+gamecore\guns\modern\rpg\putaway.wav
+gamecore\guns\modern\rpg\reload.wav
+gamecore\guns\modern\rpg\retrieve.wav
+gamecore\guns\modern\rpg\rpg.x
+gamecore\guns\modern\rpg\vweap.dbo
+gamecore\guns\modern\rpg\vweap.x
+gamecore\guns\modern\rpg\zoom.wav
+gamecore\guns\modern\rpg\zoomout.wav
+gamecore\ammo\rpg\rpgammo.dbo
+gamecore\ammo\rpg\rpgammo.x
+gamecore\ammo\rpg\rpgammo_d.dds
+gamecore\ammo\rpg\rpgammo_n.dds
+gamecore\ammo\rpg\rpgammo_s.dds
+entitybank\weapons\rpg rounds (explosive).fpe
+entitybank\weapons\7.62mm nato (rifle).fpe
+scriptbank\default.lua
+entitybank\foliage\tree 03 (animated).fpe
+entitybank\foliage\tree03.dbo
+entitybank\foliage\tree03_d.dds
+entitybank\foliage\tree03_n.dds
+entitybank\foliage\tree03_s.dds
+effectbank\reloaded\apbr_treea.fx
+entitybank\scenery\rocks (8).fpe
+entitybank\scenery\rocks (8).dbo
+entitybank\scenery\rock formations_d.dds
+entitybank\scenery\rock formations_n.dds
+entitybank\scenery\rock formations_s.dds
+scriptbank\appear.lua
+scriptbank\disappear.lua
+scriptbank\ai_fantasycharacter.lua
+entitybank\characters\medieval\assassin_2.fpe
+entitybank\characters\medieval\assassin.dbo
+entitybank\characters\medieval\assassin_2_d.dds
+effectbank\reloaded\apbr_anim.fx
+audiobank\misc\melee.wav
+entitybank\characters\medieval\drunk_1_unarmed.fpe
+entitybank\characters\medieval\drunk_unarmed.dbo
+entitybank\characters\medieval\drunk_1_d.dds
+entitybank\characters\medieval\drunk_2_unarmed.fpe
+entitybank\characters\medieval\drunk_2_d.dds
+scriptbank\ai_fastzombie.lua
+entitybank\characters\zombies\male zombie manager.fpe
+entitybank\characters\zombies\mobzombie7.dbo
+entitybank\characters\zombies\mobzombie7_d.dds
+entitybank\characters\zombies\mobzombie7_n.dds
+entitybank\characters\zombies\mobzombie7_s.dds
+audiobank\zombies\male_zombie_groan_1.wav
+audiobank\zombies\male_zombie_attack.wav
+audiobank\zombies\male_zombie_groan_2.wav
+audiobank\zombies\male_zombie_death.wav
+audiobank\zombies\zombie_melee_hit.wav
+scriptbank\ai_soldier_rpg.lua
+entitybank\characters\rocket man.fpe
+entitybank\characters\rocket man.dbo
+entitybank\characters\rocket man.dat
+entitybank\characters\rocket man_d.dds
+entitybank\characters\rocket man_n.dds
+entitybank\characters\rocket man_s.dds
+scriptbank\ai_zombiewalk3.lua
+entitybank\characters\zombies\fat zombie.fpe
+entitybank\characters\zombies\slowzombie4.dbo
+entitybank\characters\zombies\slowzombie4_v2_d.dds
+entitybank\characters\zombies\slowzombie4_v2_n.dds
+entitybank\characters\zombies\slowzombie4_v2_s.dds
+audiobank\zombies\fat_male_zombie_groan_1.wav
+audiobank\zombies\fat_male_zombie_attack.wav
+audiobank\zombies\fat_male_zombie_groan_2.wav
+audiobank\zombies\fat_male_zombie_death.wav
+scriptbank\checkpoint.lua
+entitybank\_markers\player checkpoint.fpe
+entitybank\_markers\player checkpoint.dds
+audiobank\misc\checkpoint.wav
+scriptbank\light1.lua
+entitybank\_markers\green light.fpe
+entitybank\_markers\lightbulb.dbo
+entitybank\_markers\lightbulb_green_d.dds
+scriptbank\ai_soldier.lua
+entitybank\characters\uber soldier red.fpe
+entitybank\characters\uber soldier.dbo
+entitybank\characters\uber soldier red_d.dds
+entitybank\characters\uber soldier red_n.dds
+entitybank\characters\uber soldier red_s.dds
+gamecore\guns\modern\colt1911\colt1911.x
+gamecore\guns\modern\colt1911\colt1911_d.dds
+gamecore\guns\modern\colt1911\colt1911_n.dds
+gamecore\guns\modern\colt1911\colt1911_s.dds
+gamecore\guns\modern\colt1911\crosshair.dds
+gamecore\guns\modern\colt1911\dryfire.wav
+gamecore\guns\modern\colt1911\fire1.wav
+gamecore\guns\modern\colt1911\fire2.wav
+gamecore\guns\modern\colt1911\fire3.wav
+gamecore\guns\modern\colt1911\fire4.wav
+gamecore\guns\modern\colt1911\gunspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\guns\modern\colt1911\gun_color.dds
+gamecore\guns\modern\colt1911\gun_gloss.dds
+gamecore\guns\modern\colt1911\gun_metalness.dds
+gamecore\guns\modern\colt1911\gun_normal.dds
+gamecore\guns\modern\colt1911\hud.x
+gamecore\guns\modern\colt1911\o_fire.wav
+gamecore\guns\modern\colt1911\o_putaway.wav
+gamecore\guns\modern\colt1911\o_retrieve.wav
+gamecore\guns\modern\colt1911\putaway.wav
+gamecore\guns\modern\colt1911\reload.wav
+gamecore\guns\modern\colt1911\retrieve.wav
+gamecore\guns\modern\colt1911\vweap.dbo
+gamecore\guns\modern\colt1911\vweap.x
+gamecore\guns\modern\colt1911\zoom.wav
+entitybank\characters\shotgun soldier.fpe
+entitybank\characters\shotgun soldier.dbo
+entitybank\characters\shotgun soldier.dat
+entitybank\characters\shotgunsoldier_d.dds
+entitybank\characters\shotgunsoldier_n.dds
+entitybank\characters\shotgunsoldier_s.dds
+gamecore\guns\modern\shotgun\crosshair.dds
+gamecore\guns\modern\shotgun\dryfire.wav
+gamecore\guns\modern\shotgun\fire1.wav
+gamecore\guns\modern\shotgun\fire2.wav
+gamecore\guns\modern\shotgun\fire3.wav
+gamecore\guns\modern\shotgun\fire4.wav
+gamecore\guns\modern\shotgun\gunspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\guns\modern\shotgun\gun_color.dds
+gamecore\guns\modern\shotgun\gun_gloss.dds
+gamecore\guns\modern\shotgun\gun_metalness.dds
+gamecore\guns\modern\shotgun\gun_normal.dds
+gamecore\guns\modern\shotgun\hud.x
+gamecore\guns\modern\shotgun\putaway.wav
+gamecore\guns\modern\shotgun\reload.wav
+gamecore\guns\modern\shotgun\retrieve.wav
+gamecore\guns\modern\shotgun\shotgun.x
+gamecore\guns\modern\shotgun\shotgun_d.dds
+gamecore\guns\modern\shotgun\shotgun_n.dds
+gamecore\guns\modern\shotgun\shotgun_s.dds
+gamecore\guns\modern\shotgun\vweap.dbo
+gamecore\guns\modern\shotgun\vweap.x
+gamecore\guns\modern\shotgun\zoom.wav
+scriptbank\winzone.lua
+entitybank\_markers\win zone.fpe
+entitybank\_markers\triggerzone.dbo
+entitybank\_markers\triggerzone.dds
+audiobank\misc\soundtrigger.wav
+entitybank\_markers\yellow light.fpe
+entitybank\_markers\red light.fpe
+entitybank\_markers\white light.fpe
